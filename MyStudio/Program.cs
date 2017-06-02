@@ -13,6 +13,8 @@ namespace MyStudio
             Console.WriteLine("Hello World!");
              
             Console.WriteLine("Check Update Contents");
+
+            Console.WriteLine("Test1");
         }
     }
 }
