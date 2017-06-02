@@ -15,6 +15,8 @@ namespace MyStudio
             Console.WriteLine("Check Update Contents");
 
             Console.WriteLine("Test1");
+
+            Console.WriteLine("Test2");
         }
     }
 }
