@@ -10,6 +10,7 @@ namespace MyStudio
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
