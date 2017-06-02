@@ -10,13 +10,6 @@ namespace MyStudio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-             
-            Console.WriteLine("Check Update Contents");
-
-            Console.WriteLine("Test1");
-
-            Console.WriteLine("Test2");
         }
     }
 }
